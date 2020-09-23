@@ -1,0 +1,14 @@
+¯Use Mouse to 
+Move Objecs.
+Known Bug: 
+Sometime a box 
+flips itself and starts to spin.
+-
+Translation from 
+C++ & Java to VB6 
+and Joints Handler 
+by 
+Roberto Mior
+ÚMany thanks to "Benedikt Bitterli", author of this article: "A Verlet based approach for 2D
+game physics"  Link: http://www.gamedev.net/reference/articles/article2714.asp
+and to Craig Mitchell for Java Translation.
